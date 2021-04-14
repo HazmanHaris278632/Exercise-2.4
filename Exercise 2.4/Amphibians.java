@@ -51,7 +51,7 @@ public class Amphibians {
 	}
 	public double getPrice() {
 		return this.price;
-	}
+	}jj
 	
 
 
